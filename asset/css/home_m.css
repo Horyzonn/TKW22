@@ -1,0 +1,26 @@
+.r-title{
+    font-size: 3.2em;
+}
+
+.r-summary{
+    font-size: 2em;
+}
+.info{
+    width: 55%;
+}
+
+
+.readMore-btn button{
+    font-size: 2em;
+}
+.section-title>h2{
+    font-size: 2.3rem!important;
+}
+
+.copyright-box{
+    display: block;
+}
+
+.copyright-box > div{
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+header nav .menu-btn{
+    display: flex;
+}
+    
+header nav #left ul,
+header nav #right .user-check{
+    display: none;
+}
+
+  
+.navigation {
+    display: none;
+}
+
+.f-wrapper{
+    justify-content: start;
+}
+
+.copyright-box{
+    display: block;
+    padding: 1rem;
+}
+
+footer .logo{
+    margin: 0;
+}
