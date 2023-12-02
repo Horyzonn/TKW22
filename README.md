@@ -1,7 +1,7 @@
 PURPOSE FOR LEARNING - NOT PROFIT
 
 VUI LÒNG MỞ LIVE SERVER ĐỂ CHẠY
-HOẶC CŨNG CÓ THỂ TRUY CẬP TẠI: https://konnn04.github.io/TKW22_Phu_Trieu/
+HOẶC CŨNG CÓ THỂ TRUY CẬP TẠI: horyzonn.github.io/TKW22/
 
 Đại học Mở Tp.HCM
 Khoa công nghệ thông tin
@@ -12,7 +12,7 @@ Giảng viên: Dương Hữu Thành
 BÀI TẬP GIỮA KÌ
 
 Chủ đề: Thiết kế trang web về Tạp chí khoa học
-Kho lưu dự án: https://github.com/konnn04/TKW22_Phu_Trieu
+Kho lưu dự án: https://github.com/Horyzonn/TKW22
 Thành viên:
 + Nguyễn Thanh Triều - 2251052127
 + Nguyễn Thiên Phú - 2251052093
